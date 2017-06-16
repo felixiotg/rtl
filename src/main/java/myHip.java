@@ -5,4 +5,6 @@ public class myHip {
     private String nature;
 
     private int k;
+
+    private double d;
 }
