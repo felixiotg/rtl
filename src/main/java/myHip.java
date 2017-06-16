@@ -3,4 +3,6 @@
  */
 public class myHip {
     private String nature;
+
+    private int k;
 }
