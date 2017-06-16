@@ -7,4 +7,6 @@ public class myHip {
     private int k;
 
     private double d;
+
+    private float f;
 }
